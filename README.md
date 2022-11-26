@@ -1,6 +1,6 @@
 ### Hi there,
-### This site is off due to bad weather in Sønderborg👋
-### Vi ses
+### This site is off due to bad weather in Sønderborg 🌧️
+### Vi ses 👋
 ### -JESO 
 
 <!--
