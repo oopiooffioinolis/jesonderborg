@@ -1,7 +1,6 @@
 
 
 ### Hi there,
-###
 ### This site is offline due to bad weather in Sønderborg 🌧️
 ### Vi ses 👋
 ### -JESO 
