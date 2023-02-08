@@ -1,8 +1,5 @@
-### Hi there,
-### This site is off due to bad weather in Sønderborg 🌧️
+## Project Description
 
-### Vi ses 👋
-### -JESO 
+* [live example](https://learning-zone.github.io/website-templates/startbootstrap-grayscale-1.0.3)
 
-
-![offline_image](https://user-images.githubusercontent.com/119124562/204102848-61c6ea4f-2026-4324-98d4-0b1112784a2d.jpg)
+![alt text](https://github.com/learning-zone/website-templates/blob/master/assets/startbootstrap-grayscale-1.0.3.png "startbootstrap-grayscale-1.0.3")
